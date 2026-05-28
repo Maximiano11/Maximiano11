@@ -4,7 +4,7 @@
 
 I’m currently studying **Analysis and Systems Development at Senac Paraná** while working in the technology field developing systems and internal tools.
 
-My main interests are **backend development, software architecture, and building scalable systems**.
+My main interests are **fullstack development, software architecture, and building scalable systems**.
 
 I enjoy solving problems with code and constantly improving my skills through **real-world projects and continuous learning**.
 
@@ -16,17 +16,24 @@ I enjoy solving problems with code and constantly improving my skills through **
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 ### Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=flat)
 
 ### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+### AI/Automation
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ### ORM / Tools
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
@@ -48,6 +55,7 @@ Senac Paraná
 # 📚 Currently Learning
 
 - Backend architecture
+- Frontend architecture
 - Scalable Node.js applications
 - Database modeling
 - Clean code & design patterns
