@@ -111,17 +111,6 @@ Senac Paraná
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximiano11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-    alt="Top Languages" 
-  />
-</p>
-
----
-
 # 🌍 Connect with me
 
 <p align="center">
