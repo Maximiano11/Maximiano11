@@ -86,6 +86,7 @@ I believe technology is not just about writing code, but about solving real prob
 - Improving my portfolio with practical fullstack projects
 - Exploring AI integration in software products
 - Developing custom scripts and systems for FiveM/Qbox servers
+- Creating clean, useful and maintainable applications
 
 ---
 
@@ -113,15 +114,10 @@ Senac Paraná
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Maximiano11&show_icons=true&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximiano11&layout=compact&theme=tokyonight" />
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximiano11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    alt="Top Languages" 
+  />
 </p>
 
 ---
